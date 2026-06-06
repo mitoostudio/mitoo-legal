@@ -8,7 +8,6 @@ Mitoo is a visual time-perception and positive reinforcement system for families
 * **Free Tier:** Includes core features and 2 visual scenes.
 * **Mitoo Pro:** Unlocks the remaining 6 scenes (8 total) via a one-time in-app purchase ($4.99, subject to regional Apple pricing).
 All purchases are one-time buyouts managed strictly by the App Store.
-
 ## 3. Intellectual Property 
 All app components—including custom visual assets, animations, interface designs, and code—belong to the Developer. Reverse-engineering, copying, or commercially exploiting these assets is prohibited.
 ## 4. Limitation of Liability 
