@@ -12,9 +12,11 @@ We strictly comply with COPPA, GDPR, and App Store Kids guidelines:
 ## 3. Local Storage & iCloud Sync
 * **Local-First:** All your data (like badge collection status) is saved directly on your device.
 * **iCloud Sync:** If enabled, data syncs across your devices via your private Apple iCloud account. We have no servers and cannot access or view your data.
+
 ## 4. Purchases & Data Deletion
 * **In-App Purchases:** Payments for Mitoo Pro are processed securely by Apple. We do not collect, process, or view your financial information.
 * **Deleting Data:** Deleting the App wipes all local data. Cloud data can be deleted anytime via your iOS iCloud storage settings.
+
 ## 5. Changes to This Policy
 This policy is stored locally in the App. We will only update the 'Effective Date' if we make material changes to how we handle your privacy.
 ## 6. Contact Us
