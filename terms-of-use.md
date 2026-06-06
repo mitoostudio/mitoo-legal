@@ -1,5 +1,5 @@
 # Terms of Use
-**Effective Date:** June 29, 2026<br>
+**Effective Date:** June 29, 2026<br><br>
 Welcome to Mitoo. By using the App, you agree to these Terms of Use.
 ## 1. Purpose 
 Mitoo is a visual time-perception and positive reinforcement system for families. Users select thematic scenes with ambient audio to intuitively grasp time through visual transformations. Completed sessions award in-app achievement badges, stored in a digital gallery. Families can use this collection to support their own offline agreements. The App is a daily assistance system and does not replace professional behavioral, psychological, or medical advice.
