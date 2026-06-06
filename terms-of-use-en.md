@@ -1,5 +1,6 @@
 # Terms of Use
-**Effective Date:** June 29, 2026<br><br>
+**Effective Date:** June 29, 2026
+
 Welcome to Mitoo. By using the App, you agree to these Terms of Use.
 ## 1. Purpose 
 Mitoo is a visual time-perception and positive reinforcement system for families. Users select thematic scenes with ambient audio to intuitively grasp time through visual transformations. Completed sessions award in-app achievement badges, stored in a digital gallery. Families can use this collection to support their own offline agreements. The App is a daily assistance system and does not replace professional behavioral, psychological, or medical advice.
@@ -7,6 +8,7 @@ Mitoo is a visual time-perception and positive reinforcement system for families
 * **Free Tier:** Includes core features and 2 visual scenes.
 * **Mitoo Pro:** Unlocks the remaining 6 scenes (8 total) via a one-time in-app purchase ($4.99, subject to regional Apple pricing).
 All purchases are one-time buyouts managed strictly by the App Store.
+
 ## 3. Intellectual Property 
 All app components—including custom visual assets, animations, interface designs, and code—belong to the Developer. Reverse-engineering, copying, or commercially exploiting these assets is prohibited.
 ## 4. Limitation of Liability 
