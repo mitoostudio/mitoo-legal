@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** June 29, 2026
+**Effective Date:** June 29, 2026<br><br>
 
 Mitoo App Studio ("the Developer") is committed to your privacy. We designed Mitoo to be a safe, calm environment. This policy explains our simple "Local-First" and zero-data-collection approach.
 
