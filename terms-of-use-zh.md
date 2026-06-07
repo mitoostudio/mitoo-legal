@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Mitoo - 使用条款
 <strong>生效日期：</strong>2026年6月29日
 
