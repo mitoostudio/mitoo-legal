@@ -1,3 +1,5 @@
+<div style="margin-top: 40px;"></div>
+
 # Mitoo Support
 
 *Visual time-perception and positive reinforcement system for families.*
@@ -8,5 +10,6 @@
 
 If you have any questions, feedback, or need assistance regarding the Mitoo App, please send an email to the address above.
 
----
-&copy; 2026 Mitoo App Studio. All rights reserved.
+<hr style="border: none; border-top: 1px solid #e5e5ea; margin-top: 60px; margin-bottom: 20px;">
+
+<div style="font-size: 12px; color: #86868b;">&copy; 2026 Mitoo App Studio. All rights reserved.</div>
