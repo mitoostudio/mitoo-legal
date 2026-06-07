@@ -1,8 +1,8 @@
 # Mitoo Support
 
-**Visual time-perception and positive reinforcement system for families.**
+*Visual time-perception and positive reinforcement system for families.*
 
-## Contact Customer Support
+### Contact Customer Support
 
 **Email:** [connect-point.core@outlook.com](mailto:connect-point.core@outlook.com)
 
