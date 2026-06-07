@@ -1,6 +1,6 @@
 ---
 layout: default
----
+--- 
 
 # Mitoo - 隐私政策
 <strong>生效日期：</strong>2026年6月29日
