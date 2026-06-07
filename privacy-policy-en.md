@@ -1,3 +1,5 @@
+<style> header, .page-header { display: none !important; } </style>
+
 # Mitoo - Privacy Policy
 **Effective Date:** June 29, 2026
 
