@@ -7,6 +7,6 @@ layout: default
 
 ## We're Here to Help
 
-Whether you need technical assistance, have a feature suggestion, or just want to share how Mitoo is helping your family, we would love to hear from you.
+Whether you need technical assistance, have a feature suggestion, or just want to share how Mitoo is making a difference for your family, we would love to hear from you.
 
 **Email:** [connect-point.core@outlook.com](mailto:connect-point.core@outlook.com)
