@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Mitoo - Nutzungsbedingungen (Terms of Use)
 **Gültig ab:** 29. Juni 2026
 
