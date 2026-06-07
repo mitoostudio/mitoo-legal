@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Mitoo Support
 ---
 
 # Mitoo Support
