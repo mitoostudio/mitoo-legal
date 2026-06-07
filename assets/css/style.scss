@@ -1,4 +1,11 @@
 ---
 ---
 @import "{{ site.theme }}";
-header { display: none !important; }
+
+header, 
+.page-header, 
+.site-header, 
+h1.project-name, 
+.Header { 
+    display: none !important; 
+}
