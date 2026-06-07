@@ -6,3 +6,4 @@
 Whether you need technical assistance, have a feature suggestion, or just want to share how Mitoo is helping your family, we would love to hear from you.
 
 **Email us at:** [connect-point.core@outlook.com](mailto:connect-point.core@outlook.com)
+
