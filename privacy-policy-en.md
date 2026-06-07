@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Mitoo - Privacy Policy
 **Effective Date:** June 29, 2026
 
