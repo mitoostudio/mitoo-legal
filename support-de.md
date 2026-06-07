@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Mitoo Support
-*Visuelle Zeitwahrnehmung und positives Verstärkungssystem für Familien.*
+
+ *Visuelle Zeitwahrnehmung und positives Verstärkungssystem für Familien.*
 
 ## Wir sind für Sie da
 
