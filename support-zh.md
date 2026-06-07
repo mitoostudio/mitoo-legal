@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Mitoo 支持
 ---
 
 # Mitoo 支持
