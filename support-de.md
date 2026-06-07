@@ -5,8 +5,8 @@ layout: default
 # Mitoo Support
 *Visuelles System zur Zeitwahrnehmung und positiven Verstärkung für Familien.*
 
-## Wir sind für dich da
+## Kontakt
 
-Egal, ob du technische Unterstützung benötigst, einen Funktionsvorschlag hast oder uns einfach mitteilen möchtest, wie Mitoo deinen Familienalltag bereichert – wir freuen uns über deine Nachricht.
+Egal, ob du technische Unterstützung benötigst, einen Funktionsvorschlag hast oder einfach mitteilen möchtest, wie Mitoo deinen Familienalltag bereichert – dein Feedback ist jederzeit willkommen.
 
 **E-Mail:** [connect-point.core@outlook.com](mailto:connect-point.core@outlook.com)
