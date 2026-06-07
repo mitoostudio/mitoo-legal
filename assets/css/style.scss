@@ -2,10 +2,6 @@
 ---
 @import "{{ site.theme }}";
 
-header, 
-.page-header, 
-.site-header, 
-h1.project-name, 
-.Header { 
+header, .page-header, .site-header, .repo-header { 
     display: none !important; 
 }
