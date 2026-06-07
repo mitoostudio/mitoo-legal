@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Mitoo - Datenschutzrichtlinie (Privacy Policy)
 **Gültig ab:** 29. Juni 2026
 
