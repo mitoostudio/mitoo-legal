@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Mitoo Support
-*A visual time-perception and positive reinforcement system for families.*
+*A visual time-perception and positive reinforcement system for families*
 
 ## Get in Touch
 
