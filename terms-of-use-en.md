@@ -1,6 +1,6 @@
 ---
 layout: default
----
+--- 
 
 # Mitoo - Terms of Use
 **Effective Date:** June 29, 2026
