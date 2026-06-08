@@ -22,6 +22,6 @@ The Developer strictly complies with COPPA, GDPR, and App Store Kids guidelines:
 * **Deleting Data:** Deleting the App wipes all local data. Cloud data can be deleted anytime via your iOS iCloud storage settings.
 
 ## 5. Changes to This Policy
-This policy is stored locally in the App. The 'Effective Date' will only be updated for material changes to privacy handling. Continued use of the App following an update constitutes acceptance of the changes.
+The 'Effective Date' will only be updated for material changes to privacy handling. Continued use of the App following an update constitutes acceptance of the changes.
 ## 6. Contact
 For any questions, reach out at: <br>connect-point.core@outlook.com
