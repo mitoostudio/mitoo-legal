@@ -22,6 +22,6 @@ Die App erfüllt die Datenschutzanforderungen gemäß COPPA, DSGVO und den App S
 * **Daten löschen:** Durch das Löschen der App werden alle lokalen Daten entfernt. Cloud-Daten können jederzeit über Ihre iOS iCloud-Speichereinstellungen gelöscht werden.
 
 ## 5. Änderungen dieser Richtlinie
-Diese Richtlinie wird lokal in der App gespeichert. Das „Gültig ab"-Datum wird nur dann aktualisiert, wenn wesentliche Änderungen am Umgang mit dem Datenschutz vorgenommen werden. Die fortgesetzte Nutzung der App nach einer Aktualisierung gilt als Zustimmung zu den Änderungen.
+Das „Gültig ab"-Datum wird nur dann aktualisiert, wenn wesentliche Änderungen am Umgang mit dem Datenschutz vorgenommen werden. Die fortgesetzte Nutzung der App nach einer Aktualisierung gilt als Zustimmung zu den Änderungen.
 ## 6. Kontakt
 Kontakt für Support-Anfragen: <br>connect-point.core@outlook.com
