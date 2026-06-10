@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Mitoo - Nutzungsbedingungen (Terms of Use)
+# Mitoo - Nutzungsbedingungen
 **Gültig ab:** 29. Juni 2026
 
 Willkommen bei Mitoo. Durch die Nutzung der App stimmen Sie diesen Nutzungsbedingungen zu.
