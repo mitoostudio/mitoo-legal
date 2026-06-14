@@ -7,7 +7,7 @@ layout: default
 
 Welcome to Mitoo. By using the App, you agree to these Terms of Use.
 ## 1. Purpose
-Mitoo is a visual time-perception and positive reinforcement system for families. Users select thematic scenes with ambient audio to intuitively grasp time through visual transformations. Upon completing a visual time session, an achievement badge is generated. Once manually collected, it is stored in the digital Badge Gallery. This digital collection serves as a visual record to support parents in structuring and providing their own off-screen rewards. The App is a daily assistance system and does not replace professional behavioral, psychological, or medical advice.
+Mitoo is a visual time perception and positive reinforcement system for families. Users select thematic scenes with ambient audio to intuitively grasp time through visual transformations. Upon completing a visual time session, an achievement badge is generated. Once manually collected, it is stored in the digital Badge Gallery. This digital collection serves as a visual record to support parents in structuring and providing their own off-screen rewards. The App is a daily assistance system and does not replace professional behavioral, psychological, or medical advice.
 ## 2. Premium Model (No Subscriptions)
 * **Free Tier:** Includes core features and 2 scenes.
 * **Mitoo Pro:** Unlocks the remaining 6 scenes (8 total) via a one-time purchase. Local pricing applies and is securely processed by the App Store.
