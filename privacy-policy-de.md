@@ -11,7 +11,7 @@ Mitoo erfasst absolut keine personenbezogenen Daten, Verhaltensanalysen oder Ger
 ## 2. Privatsphäre und Sicherheit von Kindern
 Die App erfüllt die Datenschutzanforderungen gemäß COPPA, DSGVO und den App Store-Richtlinien für Kinder-Apps:
 * **Keine Werbung & kein Tracking:** Die App ist komplett werbefrei und enthält keine Tracking-SDKs.
-* **Parent Gate (Elternschranke):** Bereiche, die für Eltern bestimmt sind, wie Einstellungen, In-App-Käufe und Support-Links, sind durch ein mathematisches „Parent Gate" gesichert, um den Zugriff durch Kinder zu verhindern.
+* **Kindersicherung:** Bereiche für Eltern, wie Einstellungen, In-App-Käufe und Support-Links, sind durch eine Matheaufgabe gesichert, um den Zugriff durch Kinder zu verhindern.
 
 ## 3. Lokale Speicherung & iCloud-Synchronisierung
 * **Local-First:** Alle Ihre Daten (wie der Status der Abzeichensammlung) werden direkt auf Ihrem Gerät gespeichert.
