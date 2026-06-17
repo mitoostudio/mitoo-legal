@@ -11,7 +11,7 @@ Mitoo collects absolutely zero personal data, behavioral analytics, or device me
 ## 2. Children’s Privacy & Safety
 The Developer strictly complies with COPPA, GDPR, and App Store Kids guidelines:
 * **No Ads & No Tracking:** The App is completely ad-free and contains no tracking SDKs.
-* **Parent Gate:** Areas intended for parents, such as settings, in-app purchases, and support links, are secured behind a mathematical "Parent Gate" to prevent access by children.
+* **Parent Gate:** Areas intended for parents, such as settings, in-app purchases, and support links, are secured by a math question to prevent accidental access by kids.
 
 ## 3. Local Storage & iCloud Sync
 * **Local-First:** All your data (like badge collection status) is saved directly on your device.
