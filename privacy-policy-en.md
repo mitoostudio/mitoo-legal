@@ -6,7 +6,7 @@ layout: default
 **Effective Date:** June 29, 2026
 
 Mitoo App Studio ("the Developer") is committed to your privacy. Mitoo is designed to be a safe and calm digital environment. This policy explains the simple "Local-First" and no-data-collection.
-## 1. no-data-collection
+## 1. No-data-collection
 Mitoo does not collect personal data, behavioral analytics, or device metrics. The App uses no third-party trackers, requires no accounts, and monitors no usage habits. (If emailing for support, the email may include standard device info, which is completely voluntary).
 ## 2. Children’s Privacy & Safety
 The Developer strictly complies with COPPA, GDPR, and App Store Kids guidelines:
