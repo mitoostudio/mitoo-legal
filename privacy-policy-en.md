@@ -5,12 +5,12 @@ layout: default
 # Mitoo - Privacy Policy
 **Effective Date:** June 29, 2026
 
-Mitoo App Studio ("the Developer") is committed to your privacy. Mitoo is designed to be a safe and calm digital environment. This policy explains the simple "Local-First" and zero-data-collection approach.
-## 1. Zero Data Collection
-Mitoo collects absolutely zero personal data, behavioral analytics, or device metrics. The App uses no third-party trackers, requires no accounts, and monitors no usage habits. (If emailing for support, the email may include standard device info, which is completely voluntary).
+Mitoo App Studio ("the Developer") is committed to your privacy. Mitoo is designed to be a safe and calm digital environment. This policy explains the simple "Local-First" and no-data-collection.
+## 1. no-data-collection
+Mitoo does not collect personal data, behavioral analytics, or device metrics. The App uses no third-party trackers, requires no accounts, and monitors no usage habits. (If emailing for support, the email may include standard device info, which is completely voluntary).
 ## 2. Children’s Privacy & Safety
 The Developer strictly complies with COPPA, GDPR, and App Store Kids guidelines:
-* **No Ads & No Tracking:** The App is completely ad-free and contains no tracking SDKs.
+* **No Ads & No Tracking:** The App is ad-free and contains no tracking SDKs.
 * **Parent Gate:** Areas intended for parents, such as settings, in-app purchases, and support links, are secured by a math question to prevent accidental access by kids.
 
 ## 3. Local Storage & iCloud Sync
