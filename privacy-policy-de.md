@@ -5,12 +5,12 @@ layout: default
 # Mitoo - Datenschutzerklärung
 **Gültig ab:** 29. Juni 2026
 
-Mitoo App Studio („der Entwickler") verpflichtet sich, Ihre Privatsphäre zu schützen. Mitoo wurde als sichere und ruhige digitale Umgebung konzipiert. Diese Richtlinie erklärt den einfachen „Local-First"-Ansatz und das Prinzip des vollständigen Verzichts auf Datenerfassung (Zero Data Collection).
+Mitoo App Studio („der Entwickler") verpflichtet sich, Ihre Privatsphäre zu schützen. Mitoo wurde als sichere und ruhige digitale Umgebung konzipiert. Diese Richtlinie erklärt den einfachen „Local-First"-Ansatz und das Prinzip des Verzichts auf Datenerfassung (Keine Datenerfassung).
 ## 1. Keine Datenerfassung
-Mitoo erfasst absolut keine personenbezogenen Daten, Verhaltensanalysen oder Gerätemetriken. Es werden keine Tracker von Drittanbietern verwendet, es sind keine Konten erforderlich und es werden keine Nutzungsgewohnheiten überwacht. (Support-Anfragen per E-Mail erfolgen freiwillig und können standardmäßige Geräteinformationen enthalten).
+Mitoo erfasst keine personenbezogenen Daten, Verhaltensanalysen oder Gerätemetriken. Es werden keine Tracker von Drittanbietern verwendet, es sind keine Konten erforderlich und es werden keine Nutzungsgewohnheiten überwacht. (Support-Anfragen per E-Mail erfolgen freiwillig und können standardmäßige Geräteinformationen enthalten).
 ## 2. Privatsphäre und Sicherheit von Kindern
 Die App erfüllt die Datenschutzanforderungen gemäß COPPA, DSGVO und den App Store-Richtlinien für Kinder-Apps:
-* **Keine Werbung & kein Tracking:** Die App ist komplett werbefrei und enthält keine Tracking-SDKs.
+* **Keine Werbung & kein Tracking:** Die App ist werbefrei und enthält keine Tracking-SDKs.
 * **Kindersicherung:** Bereiche für Eltern, wie Einstellungen, In-App-Käufe und Support-Links, sind durch eine Matheaufgabe gesichert, um den Zugriff durch Kinder zu verhindern.
 
 ## 3. Lokale Speicherung & iCloud-Synchronisierung
